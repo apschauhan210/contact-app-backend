@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "25KqENcDI5YcyvzwIHrg2bJpnHrXfDdNGXrQV6mUVaA=",
+  "Source": "ContactApp-T1",
+  "BasePath": "_content/ContactApp-T1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
